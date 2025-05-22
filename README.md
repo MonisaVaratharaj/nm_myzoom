@@ -3,7 +3,10 @@ This project implements a feedback validation system for educational technology 
 Workflow:
 
 Preprocess and augment the feedback dataset.
+
 Fine-tune a BERT model for classification.
+
 Evaluate model performance with metrics and confusion matrix.
+
 Deploy a Gradio web app for real-time feedback validation.
 
